@@ -24,12 +24,17 @@
 ### Screenshot
 
 ![](./images/Foo.png)
+![](./images/u1%20(1).png)
+![](./images/u1%20(2).png)
+![](./images/u1%20(3).png)
+![](./images/u1%20(4).png)
 
 
 
 ### Links
 
-- Live Site URL: [https://saintt042.github.io/fylo-landing-page/](https://your-live-site-url.com)
+- Live Site URL: [https://remarkable-sopapillas-1aaffa.netlify.app/](https://your-live-site-url.com)
+- Live Site URL: [ https://saintt042.github.io/QuizApp/](https://your-live-site-url.com)
 
 ## My process
 
