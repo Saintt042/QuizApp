@@ -6,7 +6,6 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -19,15 +18,25 @@
 ### The challenge
 
 
-- JavaScript was the major challenge. Will work on MediaQuery later on
+- JavaScript was the major challenge. This should fit well on Desktop and mobile views.
 
 ### Screenshot
 
+Here are my Desktop and Mobile view screenshots.
+
 ![](./images/Foo.png)
-![](./images/u1%20(1).png)
-![](./images/u1%20(2).png)
-![](./images/u1%20(3).png)
-![](./images/u1%20(4).png)
+![](./images/Desktop1%20(1).png)
+![](./images/Desktop1%20(2).png)
+![](./images/Desktop1%20(3).png)
+![](./images/Desktop1%20(4).png)
+![](./images/Desktop1%20(5).png)
+![](./images/Desktop1%20(6).png)
+![](./images/Desktop1%20(7).png)
+![](./images/mobile%20(1).png)
+![](./images/mobile%20(2).png)
+![](./images/mobile%20(3).png)
+![](./images/mobile%20(4).png)
+![](./images/mobile%20(5).png)
 
 
 
@@ -36,7 +45,6 @@
 - Live Site URL: [https://remarkable-sopapillas-1aaffa.netlify.app/](https://your-live-site-url.com)
 - Live Site URL: [ https://saintt042.github.io/QuizApp/](https://your-live-site-url.com)
 
-## My process
 
 ### Built with
 
@@ -48,11 +56,13 @@
 
 ### What I learned
 
-I learnt a great deal on javaScript while working on this
+I learnt a great deal on javaScript while working on this. Also improved more on CSS mediaQuery to be precise.
 
 
 ### Continued development
-I would really love to keep building with JavaScript as it is a fun Language to code with
+I would really love to keep building with JavaScript as it is a fun Language to code with.
+
+- [https://stackoverflow.com/](https://www.example.com) - This site really was of great help to me as i got stuck debugging but its guidelines helped me figure it out.
 
 ## Author
 
