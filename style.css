@@ -1,12 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
 
 
-:root{
-    
---color1: #b59393ef;
---color2: #787dd6;
-}
-
 *{
     margin: 0;
     padding: 0;
@@ -79,14 +73,14 @@ body{
 /* Start Quiz Button */
 
 .start_btn button{
-    font-size: 25px;
-    font-weight: 500;
+    font-size: 28px;
+    font-weight: 600;
     color: #007bff;
     padding: 15px 30px;
     outline: none;
     border: none;
     border-radius: 7px;
-    background: url(./images/fu.png);
+    background: whitesmoke;
     background-size: cover;
     cursor: pointer;
 }

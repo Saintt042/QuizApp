@@ -382,13 +382,13 @@ let questions = [
     
     {
         numb: 31,
-        question: "How to insert a copyright symbol on a browser page?",
-        answer:  "You can insert a copyright symbol by using &copy; or &#169; in an HTML file.",
+        question: "What is DOCTYPE?",
+        answer:  "This is used to specify the version of HTML used in the given document.",
         options: [
-            "It is impossible.",
+            "It is what doctors use on surgery.",
             "Just go to W3schools and ask Jolah.",
-            "You can insert a copyright symbol by using &copy; or &#169; in an HTML file.",
-            "Use of tailwind CSS styles and semantics of wind."
+            "This is used to specify the version of HTML used in the given document.",
+            "It is a type of document used by doctors in advanced medicine"
     ]
     },
 
