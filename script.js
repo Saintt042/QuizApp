@@ -12,7 +12,10 @@ const timeOff = quiz_box.querySelector("header .time_text");
 
 //if start quiz button is clicked
 start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo");//show the info box
+    username = document.getElementById("myText").value;
+    let k = " Quiz Application";
+     document.getElementById("constant").innerHTML = username + k;
+    info_box.classList.add("activeInfo", "myText");//show the info box
 }
 
 //if Exit button is clicked
@@ -88,6 +91,8 @@ next_btn.onclick = ()=>{
         showResultBox();
     }
 }
+
+
 
 //getting questions and options from an array
 function showQuestions(index){
