@@ -61,6 +61,7 @@ body{
     transform: translate(-50%, -50%);
 }
 
+
 .start_btn,
 .info_box,
 .quiz_box,
@@ -189,7 +190,7 @@ label{
 /* Quiz Box Starts Here */
 
 .quiz_box{
-    width: 550px;
+    max-width: 550px;
     border-radius: 5px;
     user-select: none;
     opacity: 0;
@@ -246,7 +247,10 @@ label{
     border: 1px solid#4c9bf0bd;
 }
 
-/* Quiz box section starts here */
+   
+.quiz_box header .time_line{
+    max-width: 100%;
+}
 
 .quiz_box section .que_text{
     font-size: 25px;
@@ -444,6 +448,13 @@ label{
         font-size: 12px;
         font-weight: 700;
     }
+    
+.quiz_box header .time_line{
+    max-width: 100%;
+    background: red;
+}
+
+
     
     .quiz_box section .que_text{
         font-size: 15px;

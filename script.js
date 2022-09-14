@@ -157,7 +157,7 @@ function showResultBox(){
         scoreText.innerHTML = scoreTag;
     }
 
-    else if(userScore > 1){
+    else if(userScore < 25){
         let scoreTag = '<span>and nice, You got <p>'+ userScore +'</p>out of<p>'+ questions.length +'</p></span>'
         scoreText.innerHTML = scoreTag;
     }
@@ -201,7 +201,7 @@ function startTimer(time){
 
 
 function startTimerLine(time){
-    counterLine = setInterval(timer, 29);
+    counterLine = setInterval(timer, 49);
     function timer(){
         time += 1;
         timeLine.style.width = time + "px";
