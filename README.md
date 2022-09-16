@@ -15,9 +15,9 @@
 
 ## Overview
 
-- This QuizApp was created to increase awareness about HTML, CSS and javaScript while you play and have fun.
+- This QuizApp was created to increase awareness about HTML, CSS and javaScript while you play and have fun.I will be adding more questions as time progresses.
 
-### The challenge
+	### The challenge
 
 
 - JavaScript was the major challenge. This should fit well on Desktop and mobile views.

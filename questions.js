@@ -405,5 +405,84 @@ let questions = [
     ]
     },
 
+    
+    {
+        numb: 33,
+        question: "When was REACT first released?",
+        answer:  "Was first released in 2013.",
+        options: [
+            "It was released same year with Bitcoin in 2008.",
+            "It was first released in 1987 by Jordan Walke",
+            "Was first released in 2013.",
+            "was first released in 1999."
+    ]
+    },
+
+    {
+        numb: 34,
+        question: "Who was the original creator of REACT?",
+        answer:  "Was originally created by Jordan Walke.",
+        options: [
+            "It was created by DANGOTE GROUP.",
+            "It was created originally by MICROSOFT.",
+            "it was created originally by FACEBOOK.",
+            "Was originally created by Jordan Walke."
+    ]
+    },
+
+    {
+        numb: 35,
+        question: "Who maintains REACT?",
+        answer:  "is maintained by FACEBOOK.",
+        options: [
+            "is maintained by MICROSOFT.",
+            "is maintained by FACEBOOK.",
+            "is maintained by TWITTER.",
+            "is maintained by ELON MUSK."
+    ]
+    },
+
+    
+    {
+        numb: 36,
+        question: "On your command line, how do you edit README.md?",
+        answer:  "vi README.md.",
+        options: [
+            "edit .README.md",
+            "touch README.md",
+            "it is actually impossible to do that",
+            "vi README.md."
+    ]
+    },
+
+    
+    {
+        numb: 37,
+        question: "Done editting your README.md on your command line, how do you exit?",
+        answer:  "esc, shift+:, wq, enter.",
+        options: [
+            "esc, shift+:, enter",
+            "esc, wq, enter",
+            "esc, shift+:, wq, enter",
+            "esc, shift+:, pwd, enter"
+    ]
+    },
+
+    
+    {
+        numb: 38,
+        question: "How do you initialize a git repo from your command line?",
+        answer:  "git init.",
+        options: [
+            "git bash.",
+            "git init.",
+            "git repo init",
+            "git in repo"
+    ]
+    },
+
+
+
+
 
 ];
