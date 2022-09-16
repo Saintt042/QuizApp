@@ -459,11 +459,11 @@ let questions = [
     {
         numb: 37,
         question: "Done editting your README.md on your command line, how do you exit?",
-        answer:  "esc, shift+:, wq, enter.",
+        answer:  "esc, shift + :, wq, enter.",
         options: [
             "esc, shift+:, enter",
             "esc, wq, enter",
-            "esc, shift+:, wq, enter",
+            "esc, shift + :, wq, enter.",
             "esc, shift+:, pwd, enter"
     ]
     },
