@@ -476,10 +476,25 @@ let questions = [
         options: [
             "git bash.",
             "git init.",
-            "git repo init",
-            "git in repo"
+            "git repo init.",
+            "git in repo."
     ]
     },
+
+
+    
+    {
+        numb: 39,
+        question: "Who is known as the father of HTML and what year was it first developed?",
+        answer:  "Tim Berners-Lee in 1990.",
+        options: [
+            "Charles Xavier in 1997.",
+            "Mark Zuckerberg in 1995.",
+            "Tim Berners-Lee in 1990.",
+            "Elon Musk in 1988."
+    ]
+    },
+
 
 
 
