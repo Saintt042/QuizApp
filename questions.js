@@ -518,7 +518,7 @@ let questions = [
             "Tailwind, Bootstrap and skeleton.",
             "UI/UX, Animations and visual effects.",
             "Strings, Boleans and Numbers",
-            "Selectors, properties and values.."
+            "Selectors, properties and values."
     ]
     },
 
