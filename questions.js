@@ -579,8 +579,6 @@ let questions = [
 
 
 
-
-
    
 
 ];
