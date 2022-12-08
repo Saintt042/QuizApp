@@ -495,6 +495,87 @@ let questions = [
     ]
     },
 
+    
+    {
+        numb: 40,
+        question: "How many main parts of CSS are there?",
+        answer:  "Only 3.",
+        options: [
+            "Only 3.",
+            "Just 1.",
+            "Only 4.",
+            "Probably 2."
+    ]
+    },
+
+
+    
+    {
+        numb: 41,
+        question: "Name the 3 main parts of CSS?",
+        answer:  "Selectors, properties and values.",
+        options: [
+            "Tailwind, Bootstrap and skeleton.",
+            "UI/UX, Animations and visual effects.",
+            "Strings, Boleans and Numbers",
+            "Selectors, properties and values.."
+    ]
+    },
+
+      
+    {
+        numb: 42,
+        question: "What is a DOM?",
+        answer:  "Document Object Model.",
+        options: [
+            "Dont Overload Module.",
+            "Document Object Model.",
+            "Document Over-used Module",
+            "Document Over-loaded Module"
+    ]
+    },
+
+     
+    {
+        numb: 43,
+        question: "What best describes a DOM?",
+        answer:  "A tree created by your web browser when a web page loads.",
+        options: [
+            "A modified tree containing div elements.",
+            "Documents of over-used web pages",
+            "Documents ccompiled after your web browser loads.",
+            "A tree created by your web browser when a web page loads."
+    ]
+    },
+
+    
+    {
+        numb: 44,
+        question: "Two types of data transmission includes?",
+        answer:  "POST & GET.",
+        options: [
+            "POST & GET.",
+            "TAKE & GIVE",
+            "BANG & POUR",
+            "DRIVE & SCREW."
+    ]
+    },
+
+     
+    {
+        numb: 45,
+        question: "What does E R C mean?",
+        answer:  "Ethereum Request for Comments.",
+        options: [
+            "Energy Rate Consumption.",
+            "Ethereum Request for Comments.",
+            "Etheruem Rate Consummables",
+            "Etheruem Rated Customer."
+    ]
+    },
+
+    
+
 
 
 
